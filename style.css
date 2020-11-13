@@ -1,5 +1,5 @@
 .xmenstorm {
-	background: violet;
+	background: #15bfaf;
 	padding: 1rem;
 }
 .evolution {
@@ -18,4 +18,8 @@
     background-repeat: no-repeat;
 }
 
-
+.stormy {
+	background-size: contain;
+	width: 1600px;
+	height: 900px;
+}
