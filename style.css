@@ -1,0 +1,21 @@
+.xmenstorm {
+	background: violet;
+	padding: 1rem;
+}
+.evolution {
+	background-image: url('images/evolution.jpg');
+	color: aliceblue;
+	padding-top: 1rem;
+	padding-bottom: 16rem;
+	padding-right: 20rem;
+	padding-left: 67px;
+    font-size: 2rem;
+    width: 400px;
+    height: 172.8px;
+    max-width: 500px;
+    max-height: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
